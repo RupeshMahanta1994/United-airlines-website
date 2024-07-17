@@ -1,0 +1,25 @@
+.image-sizing{
+  height: 40rem;
+  width: 100%;
+  object-fit: cover;
+}
+
+.carousel-text{
+  position: absolute;
+  width: 80%;
+  height: 80%;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+  z-index: 10;  
+
+}
+.flight-booking-card{
+  
+  width: 45rem;
+  background-color: white;
+  padding-bottom: 1rem;
+  border-radius: 0.6rem;
+}
